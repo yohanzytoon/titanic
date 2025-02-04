@@ -12,7 +12,6 @@ This project demonstrates the full machine learning pipeline, including data pre
 - `train.csv`: The training dataset provided by Kaggle.
 - `test.csv`: The test dataset provided by Kaggle.
 - `gender_submission.csv`: A dataset with baseline gender-based predictions for the Titanic competition.
-- `submission.csv`: The final output file with predictions for the test dataset, ready for submission to Kaggle.
 - `environment.yaml`: A Conda environment file to reproduce the Python environment used for this project.
 
 ---
